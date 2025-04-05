@@ -1,7 +1,4 @@
 # Iodine Removal from Nuclear Waterwaste using Metal Organic Frameworks(MOFs)
-Here's a polished, markdown-formatted section that you can **copy and paste directly** into your `README.md` file on GitHub:
-
----
 
 ## 📂 Repository Structure
 
